@@ -37,7 +37,7 @@ Breed,
 Gender,
 Age,
 Activity,
-Weight,
+Weight
 
 
 
