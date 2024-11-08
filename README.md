@@ -1,10 +1,6 @@
 # Pet-Care-ChatBot
 This chatbot is meant to help give background information regarding the user's pet breed, convert the pet's age to human years, and give recommendations based on the pet's weight
 
-Subject: Pet care
-
-Once the user provides information about their pet we will give feedback regarding the breed, age and recommendations regarding health, exercising and nutrition.
-
 
 
 
