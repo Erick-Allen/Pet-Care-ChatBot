@@ -33,7 +33,7 @@ It should analyze the information given by the user and combine them into a tail
 
 # What it Needs:
 
-Pet Breed,
+Breed,
 Gender,
 Age,
 Weekly Activity,
