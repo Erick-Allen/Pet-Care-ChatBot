@@ -13,20 +13,6 @@ Give feedback regarding the pets current amount of exercise
 Based on the breed, age, and gender give a recommendation of an ideal weight and how to achieve it with a balanced nutrition and exercise routine
 
 
-
-
-
-
-# How it Does:
-
-It should analyze the information given by the user and combine them into a tailored experience for their pet 
-
-
-
-
-
-
-
 # What it Needs:
 
 Breed,
@@ -34,7 +20,6 @@ Gender,
 Age,
 Activity,
 Weight
-
 
 
 
