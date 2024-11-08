@@ -36,7 +36,7 @@ It should analyze the information given by the user and combine them into a tail
 Breed,
 Gender,
 Age,
-Weekly Activity,
+Activity,
 Weight,
 
 
